@@ -1,0 +1,14 @@
+//Crear logos gratis
+https://www.freelogodesign.org/preview?lang=es&autodownload=true&logo=6e03300b-bca2-4bf7-a0c2-fe7efbfc552e
+
+//Recortar imagen png
+https://www.iloveimg.com/es/recortar-imagen/recortar-png
+
+//Imagenes free
+https://unsplash.com/
+
+//Visualizador svg
+https://github.com/tibold/svg-explorer-extension/releases
+
+//Iconos
+https://icon-icons.com/es/download/123197/SVG/512/
